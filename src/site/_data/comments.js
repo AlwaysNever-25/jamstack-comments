@@ -24,8 +24,8 @@ module.exports = () => {
       comments[entry.data.path] = [comment];
     }
 
-  });*/
+  });
 
   return comments;
 
-};
+};*/
