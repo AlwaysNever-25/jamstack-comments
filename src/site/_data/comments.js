@@ -1,10 +1,10 @@
 // massage the approved comments data into the shape we'd like
 // embelish the data with gravatars
 
-const gravatar = require('gravatar');
-const submissions = require('./approved-comments_submissions.json');
+//const gravatar = require('gravatar');
+//const submissions = require('./approved-comments_submissions.json');
 
-
+/*
 module.exports = () => {
 
   let comments = {};
@@ -24,7 +24,7 @@ module.exports = () => {
       comments[entry.data.path] = [comment];
     }
 
-  });
+  });*/
 
   return comments;
 
